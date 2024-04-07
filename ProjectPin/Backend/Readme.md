@@ -46,7 +46,8 @@ The purpose of creating this app is to assist people who encounter difficulties 
 
 - The user want to delete a photo that upload previously
 
-
+![diagrama](Images/ActivityUpdated.png)
 
 - The manager will see the clients of the app
 
+![diagrama](Images/ManagerActivity.png)
