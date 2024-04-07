@@ -42,7 +42,7 @@ The purpose of creating this app is to assist people who encounter difficulties 
 
 - The user login and upload a pin or create a board
 
-![diagrama](ProjectPin/Images/SequencesUser.jpg)
+![diagrama](Images/SequencesUser.jpeg)
 
 - The user want to delete a photo that upload previously
 
