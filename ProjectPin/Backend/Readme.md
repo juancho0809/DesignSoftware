@@ -18,11 +18,11 @@ The purpose of creating this app is to assist people who encounter difficulties 
 
 - __As a__ _user_,__I want__ to see boards, __so what__ I can get inspiration
 - __As a__ _user_,__I want__ upload pins, __so what__ I can share my art
-- __As a__ _user_,__I want__ clasificate the boards, __so what__ I can find my preferences
 - __As a__ _user_,__I want__ have an account, __so what__ I can save my boards
 - __As a__ _user_,__I want__ to see the catalogs, __so what__ I can see other people's work
 - __As a__ _manager_,__I want__ to see all the users have the app, __so what__ I can make analysis about it
 - __As a__ _manager_,__I want__ to see boards, __so what__ I can decide delete depending on business rules
+- __As a__ _manager_,__I want__ to have an special account, __so what__ I can have special permissions such as delete or view the content of users
 
 ## Technical Definitions
 
