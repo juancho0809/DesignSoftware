@@ -14,6 +14,11 @@ The purpose of creating this app is to assist people who encounter difficulties 
 - Boards are public for all 
 - Boards must __NOT__ have any illegal content (naked, violence)
 
+### Tools to use
+
+- The enviroment used is Python, using other tools like PostgreSQL and Github for control versions of the project 
+
+
 ## User Stories
 
 - __As a__ _user_,__I want__ to see boards, __so what__ I can get inspiration
@@ -23,12 +28,10 @@ The purpose of creating this app is to assist people who encounter difficulties 
 - __As a__ _manager_,__I want__ to see all the users have the app, __so what__ I can make analysis about it
 - __As a__ _manager_,__I want__ to see boards, __so what__ I can decide delete depending on business rules
 - __As a__ _manager_,__I want__ to have an special account, __so what__ I can have special permissions such as delete or view the content of users
+  
 
 ## Technical Definitions
 
-### Tools to use
-
-- The enviroment used is Python, using other tools like PostgreSQL and Github for control versions of the project 
 
 - User: name, username, email, password
 - Client(User): IdUser
