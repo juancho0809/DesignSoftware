@@ -51,3 +51,17 @@ The purpose of creating this app is to assist people who encounter difficulties 
 - The manager will see the clients of the app
 
 ![diagrama](Images/ManagerActivity.png)
+
+## Entity-Relationship Diagram
+In the Entity-Relationship Diagram of our project, we have modeled the key relationships between entities. I highlight the following:
+
+- __TypeOfUser__: Represents user types (clients or administrators). It establishes a __one-to-many__ relationship with the User entity.
+- __User__: Stores information about registered users. It has a __one-to-many__ relationship with the Pin entity.
+- __Pin__: Represents created pins. Each pin is associated with a user. It establishes a __many-to-many__ relationship with the Catalogo entity.
+- __Catalogo__: Contains all pins, grouping them. It also establishes a __many-to-many__ relationship with the Pin entity.
+
+![diagrama](Images/Entity_relationship_diagram.png)
+
+## UML Diagram
+
+![diagrama](Images/UMl_diagram.png)
