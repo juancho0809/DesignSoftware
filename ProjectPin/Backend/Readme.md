@@ -28,9 +28,7 @@ The purpose of creating this app is to assist people who encounter difficulties 
 
 ### Tools to use
 
-- The enviroment used is Python, with some libraries
-
-## Entities
+- The enviroment used is Python, using other tools like PostgreSQL and Github for control versions of the project 
 
 - User: name, username, email, password
 - Client(User): IdUser
