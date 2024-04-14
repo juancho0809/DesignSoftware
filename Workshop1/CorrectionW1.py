@@ -2,7 +2,7 @@
 """
 Solution to the first workshop of the University Distrital Francisco José de Caldas
 
-Author: Juan Diego Lozada
+Author: Juan Diego Lozada (correction)
 
 """
 
