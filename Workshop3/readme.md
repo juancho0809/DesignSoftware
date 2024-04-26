@@ -24,6 +24,6 @@ The requirements are the next ones:
 
 ### Diagram Class
 
-![Texto alternativo](images/DiagramClass.drawio.png)
+![Texto alternativo](images/DiagramClass1.drawio.png)
 
 if the diagram is not clear to see on the image, the png will be in the folder  images with the name "DiagramClass.png
