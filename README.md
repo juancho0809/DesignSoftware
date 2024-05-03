@@ -1,3 +1,1 @@
-# DesignSoftware
-
-For now, all the workshops and  projects are on the branch MASTER
+# Welcome to Design Software Repo
